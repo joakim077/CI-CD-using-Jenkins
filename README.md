@@ -16,3 +16,18 @@ usermod -aG docker jenkins
 
 ```
 
+To run application
+
+```
+Run these commands:
+
+sudo apt install nodejs
+
+sudo apt install npm
+
+npm install
+
+node app.js
+
+```
+
